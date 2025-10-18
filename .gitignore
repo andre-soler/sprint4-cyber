@@ -1,0 +1,16 @@
+# Ambiente virtual
+venv/
+__pycache__/
+*.pyc
+
+# Configurações locais
+.env
+*.log
+
+# VS Code
+.vscode/
+
+# Testes e relatórios
+htmlcov/
+coverage.xml
+
