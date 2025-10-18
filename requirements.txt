@@ -1,7 +1,5 @@
-
----
-
-## 📜 `requirements.txt`
-
-Esse arquivo lista as bibliotecas que seu projeto precisa. Aqui vai um exemplo com as que já usamos:
+# bcrypt
+# Flask
+# app.auth
+# pytest
 
